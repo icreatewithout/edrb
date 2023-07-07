@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 ## PC端体验地址
 每日阅读PC端地址 : https://www.tititxt.net
 ## PC端开源代码：
-flutter https://gitee.com/haojias/iread
+https://github.com/haojias/h-serv-book.git
 
 ## 数据接口
 https://api.tititxt.net
